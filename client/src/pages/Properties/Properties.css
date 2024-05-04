@@ -1,0 +1,10 @@
+.property-container{
+  gap: 2rem;
+}
+
+.property-container .serach-bar{
+  border-radius: 30px;
+  border:1px solid black;
+  flex-wrap: nowrap;
+  cursor: pointer;
+}
